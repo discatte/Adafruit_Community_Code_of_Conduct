@@ -75,7 +75,7 @@ You may report in the following ways:
 In any situation, you may send an email to <fluffyfloppydisc@gmail.com>.
 
 On the Intergalactic Transistor Lounge and Cat Cafe Discord, you may send an
-open message from any channel to all Community Moderators by tagging @helper.
+open message from any channel to all Community Moderators by tagging @helper or @moderator.
 You may also send an open message from any channel, or a direct message to @Galactic Furball#5522
 
 Email and direct message reports will be kept confidential.
